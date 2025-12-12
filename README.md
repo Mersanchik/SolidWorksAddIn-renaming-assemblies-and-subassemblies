@@ -1,0 +1,1 @@
+# SolidWorksAddIn-renaming-assemblies-and-subassemblies
